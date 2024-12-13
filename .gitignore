@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+result.db
+result.xlsx
+file.pdf
+/venv/
+
+# General
+.vscode/
+commands.txt
+requairements.txt
+/images/
