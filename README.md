@@ -21,7 +21,6 @@ ___
 ![](https://github.com/MishanyaS/pdf_file_parser/blob/main/photos/4.png?raw=true)
 ![](https://github.com/MishanyaS/pdf_file_parser/blob/main/photos/5.png?raw=true)
 ![](https://github.com/MishanyaS/pdf_file_parser/blob/main/photos/6.png?raw=true)
-![](https://github.com/MishanyaS/pdf_file_parser/blob/main/photos/7.png?raw=true)
 
 ___
 
